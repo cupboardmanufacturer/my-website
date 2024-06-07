@@ -7,6 +7,7 @@ body {
   display: grid;
   min-height: 100vh;
 }
+
 header {
 
   position: fixed;
@@ -17,6 +18,7 @@ header {
   padding: 10px;
   text-align: center;
 }
+
 nav {
 
   position: fixed;
@@ -27,6 +29,7 @@ nav {
   display: flex;
   justify-content: center;
 }
+
 nav a {
   color: white;
   text-decoration: none;
@@ -36,6 +39,7 @@ nav a {
 a {
   color: #0096FF;
 }
+
 section {
   padding-top: 10px;
 }
